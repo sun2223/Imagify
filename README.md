@@ -1,4 +1,4 @@
-# Imagify by Sundaram
+# Imagecraft by Sundaram
 
 A modern AI-powered image app built with React and Node.js.  
 Upload images, apply AI filters, and generate amazing visuals instantly.
